@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on statistical modelling projects
-- 📫 How to reach me 
+- Twitter: http://twitter.com/auritra
 
 <!---
 auritra/auritra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
