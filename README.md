@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @auritra
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on statistical modelling projects
+- 💞️ I’m looking to collaborate on playing Apex Legends.
 - Twitter: http://twitter.com/auritra
 
 <!---
