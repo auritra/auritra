@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Rafeyin Asef Rahman (@auritra).
 - I’m interested in learning Game Programming 
 - 🌱 I’m currently learning C# Programming for Unity Game Development Specialization on Coursera.
+
+Online handles:
 • X: http://twitter.com/rafeyinrahman
 • LinkedIn: http://linkedin.com/in/auritra
+• Devpost: https://devpost.com/auritra
+• Dev Community: https://dev.to/auritra
 • Portfolio website: http://auritra.wordpress.com
 
 <!---
