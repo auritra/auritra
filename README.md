@@ -5,12 +5,15 @@ e-Portfolios:
      
    Devpost
      https://devpost.com/auritra
+
+   GitLab
+     https://gitlab.com/auritra
      
    Dev Community
      https://dev.to/auritra
 
    DevFolio
-      https://devfolio.io/auritra
+      https://devfolio.cc/auritra
      
    Portfolio website
      https://auritra.wordpress.com
