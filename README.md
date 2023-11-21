@@ -1,3 +1,24 @@
+e-Portfolios:
+     
+   LinkedIn
+     https://linkedin.com/in/auritra
+     
+   Devpost
+     https://devpost.com/auritra
+     
+   Dev Community
+     https://dev.to/auritra
+
+   DevFolio
+      https://devfolio.io/auritra
+     
+   Portfolio website
+     https://auritra.wordpress.com
+
+   X (formerly, Twitter)
+     https://x.com/rafeyinrahman
+
+
 G'day mates!
 
 I'm Rafeyin
@@ -50,12 +71,6 @@ should tou
 - I’m interested in learning Game Programming 
 - 🌱 I’m currently learning C# Programming for Unity Game Development Specialization on Coursera.
 
-Portfolios:
-• X: http://twitter.com/rafeyinrahman
-• LinkedIn: http://linkedin.com/in/auritra
-• Devpost: https://devpost.com/auritra
-• Dev Community: https://dev.to/auritra
-• Portfolio website: http://auritra.wordpress.com
 
 <!---
 auritra/auritra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
