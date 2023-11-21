@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Rafeyin Asef Rahman (@auritra).
+- G'day mate,
+- I'm Rafeyin Asef Rahman. It's a common practice for my friends to call me Ray (@auritra).
 - I’m interested in learning Game Programming 
 - 🌱 I’m currently learning C# Programming for Unity Game Development Specialization on Coursera.
 
-Online handles:
+Portfolios:
 • X: http://twitter.com/rafeyinrahman
 • LinkedIn: http://linkedin.com/in/auritra
 • Devpost: https://devpost.com/auritra
