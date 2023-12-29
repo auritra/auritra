@@ -64,14 +64,10 @@ Can we just take a moment
 
 Whilst you do you as your mileage may vary, must you never forget you know why—you know
     
-    a: WHAT YOU WANNA DO?
-    b: WHY YOU WANNA DO?
-
-    a=f(b): WHY YOU WANNA DO WHAT YOU WANNA DO?
 
 
 should tou
-  Ray  Asef Rahman. It's a common practice for my friends to call me Ray (@auritra).
+  Rafeyin Asef Rahman; or might as well just call me Ray (@auritra).
 - I’m interested in learning Game Programming 
 - 🌱 I’m currently learning C# Programming for Unity Game Development Specialization on Coursera.
 
