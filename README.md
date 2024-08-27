@@ -14,12 +14,7 @@ e-Portfolios:
 
    DevFolio
       https://devfolio.cc/auritra
-     
-   Portfolio website
-     https://auritra.wordpress.com
 
-   X (formerly, Twitter)
-     https://x.com/auritra
 
 
 should tou
