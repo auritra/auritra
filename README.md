@@ -19,7 +19,7 @@ e-Portfolios:
      https://auritra.wordpress.com
 
    X (formerly, Twitter)
-     https://x.com/rafeyinrahman
+     https://x.com/auritra
 
 
 should tou
