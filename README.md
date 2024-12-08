@@ -15,8 +15,7 @@ e-Portfolios:
 
 
 
-should tou
-  Rafeyin Asef Rahman; or might as well just call me Ray (@auritra).
+
 - I’m interested in learning Game Programming 
 - 🌱 I’m currently learning C# Programming for Unity Game Development Specialization on Coursera.
 
