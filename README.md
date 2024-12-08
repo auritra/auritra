@@ -12,8 +12,6 @@ e-Portfolios:
    Dev Community
      https://dev.to/auritra
 
-   DevFolio
-      https://devfolio.cc/auritra
 
 
 
